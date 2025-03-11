@@ -1,10 +1,10 @@
 
-<div align="center">
+<p align="center">
   <img src="https://rm.akinne.xyz/findtheword/image-original.png" alt="Logo" width="200" height="200">
-</div>
+</p>
 
 <h1 align="center">Find the word!</h1>
-<p style="text-align: center;">Gotta Find 'Em All</p>
+<p align="center">Gotta Find 'Em All</p>
 
 <br><br>
 
@@ -47,7 +47,6 @@ To get started with **Find the word!**:
 
 <hr>
 
-<div style="display: flex; justify-content: space-between;">
-  <span>License: GNU GPL 3.0</span>
-  <span>Created by <a href="https://akinne.xyz">Akinne</a></span>
-</div>
+<p align="center">
+  <span>License: GNU GPL 3.0</span> | <span>Created by <a href="https://akinne.xyz">Akinne</a></span>
+</p>
